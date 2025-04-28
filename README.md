@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=admelm&label=Profile%20views&color=0e75b6&style=flat" alt="admelm" /> </p>
 
-- 🔭 I’m currently working on **Video game space invaders**
+- 🔭 I’m currently working on **AWS cloud project**
 
-- 🌱 I’m currently learning **Linux, Operating systems, Node.js, React**
+- 🌱 I’m currently learning **Linux, Operating systems, Node.js, React, AI**
 
-- 👯 I’m looking to collaborate on **Game development**
+- 👯 I’m looking to collaborate on **cloud security and AI projects**
 
-- 💬 Ask me about **C++, Python**
+- 💬 Ask me about **Java, Python**
 
 - 📫 How to reach me **adham777ad@gmail.com**
 
